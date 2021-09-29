@@ -1,3 +1,7 @@
+
+![ alt text for screen readers](https://imgur.com/DpI2m9N.png "README.md") 
+
+
 # dev-environment-lab
 ## OS
 
